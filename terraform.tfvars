@@ -1,0 +1,11 @@
+
+rgname = "rg-tera"
+rglocation = "East US"
+vnetname = "vnetter"
+vnet01_cidr_prefix = "10.2.0.0/16"
+subnetname = "internal"
+subnet01_cidr_prefix ="10.2.1.0/24"
+nic-interfacename ="linux01-nic"
+vmname01 = "linux01"
+#rgname2 = "rg-tera02"
+#rglocation2 = "East US"
